@@ -1,12 +1,12 @@
 {
   "name": "palabras",
   "version": "1.0.0",
-  "description": "",
   "main": "palabras.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon palabras"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
